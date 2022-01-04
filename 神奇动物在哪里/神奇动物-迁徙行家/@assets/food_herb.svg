@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="18px" viewBox="2 1.5 32 18" enable-background="new 2 1.5 23 18" xml:space="preserve">
+    <g>
+		<rect x="2" y="1.5" fill="#2196f3" width="32" height="18" rx="2" ry="2"/> 
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-701.561" y1="482.042" x2="-701.561" y2="481.1426" gradientTransform="matrix(88 0 0 -20 61751.0625 9642.3438)">
+			<stop  offset="0" style="stop-color:#BBBBBB;stop-opacity:0.1"/>
+			<stop  offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+		</linearGradient>
+		<rect x="2" y="1.5" fill="url(#SVGID_3_)" width="32" height="18"  rx="2" ry="2"/> 
+		<text transform="matrix(1 0 0 1 6 15)" fill="#FFFFFF" font-family="'MicrosoftYaHei-Bold'" font-size="12">草食</text>
+	</g> 
+</svg>
